@@ -1,0 +1,4 @@
+There's a "Movies" Section in your Project Settings, there you can set your Movies that played on Game Startup.
+Make sure to check "Wait for Movie to Complete" to show the full video.
+
+https://www.youtube.com/watch?v=gGRHBZFOzEk
